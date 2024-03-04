@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m **Ian Saucedo**
 
-I'm a computer science student at [UANL - FCFM](http://www.fcfm.uanl.mx/).
+I have a bachelor in Computer Science at [UANL - FCFM](http://www.fcfm.uanl.mx/).
 
 ### 👀 I’m interested in Data Science and Machine learning 
 
